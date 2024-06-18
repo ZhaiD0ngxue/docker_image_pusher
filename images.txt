@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #debian:11.7-slim
-nicolaka/netshoot:v0.11
+#nicolaka/netshoot:v0.11
+python:3.12.2-slim-bookworm
