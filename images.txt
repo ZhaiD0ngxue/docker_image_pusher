@@ -7,7 +7,7 @@
 
 
 
-#hello-world:latest
+
 debian:11.7-slim
 debian:12.5-slim
 debian:12.5
@@ -19,4 +19,12 @@ python:3.12.2-bookworm
 
 nginx:1.20.0
 nginx:1.22.1
+
+hello-world:nanoserver1709
+
+registry:2.8.2
+registry:2.8.3
+registry:3.0.0
+
+mysql:8.4.4
 
