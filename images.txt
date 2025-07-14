@@ -8,21 +8,24 @@
 
 
 
-debian:11.7-slim
-debian:12.5-slim
-debian:12.5
+#debian:11.7-slim
+#debian:12.5-slim
+#debian:12.5
 
-nicolaka/netshoot:v0.11
+#nicolaka/netshoot:v0.11
 
-python:3.12.2-slim-bookworm
-python:3.12.2-bookworm
+#python:3.12.2-slim-bookworm
+#python:3.12.2-bookworm
 
-nginx:1.20.0
-nginx:1.22.1
+#nginx:1.20.0
+#nginx:1.22.1
 
-registry:2.8.2
-registry:2.8.3
-registry:3.0.0
+#registry:2.8.2
+#registry:2.8.3
+#registry:3.0.0
 
-mysql:8.4.4
+#mysql:8.4.4
 
+alpine:3.18.6
+
+tomcat:9.0.107-jre8
